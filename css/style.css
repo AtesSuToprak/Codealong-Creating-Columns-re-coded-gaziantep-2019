@@ -116,9 +116,12 @@ img, video, audio {
   line-height: 0;
 }
 
-/* //////////////LAYOUT/////////////*/
+/* //////////////SECTIONS/////////////*/
 
-
+section {
+  padding: 20px;
+  
+}
 
 
 
